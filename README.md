@@ -205,17 +205,21 @@ T FLIPFLOP:
 
 ## TIMING DIGRAMS FOR FLIP FLOPS
 SR FLIPFLOP:
+
 ![output](g5.png)
 
 D FLIPFLOP:
+
 ![output](g6.png)
 
 
 JK FLIPFLOP:
+
 ![output](g7.png)
 
 
 T FLIPFLOP:
+
 ![output](g8.png)
 
 
